@@ -1,6 +1,12 @@
+data==0.4
+decorator==4.4.2
+funcsigs==1.0.2
+future==0.18.2
 numpy==1.18.4
 pandas==1.0.3
 python-dateutil==2.8.1
 pytz==2020.1
 scipy==1.4.1
+shutilwhich==1.1.0
 six==1.15.0
+tempdir==0.7.1
